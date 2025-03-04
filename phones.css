@@ -1,0 +1,20 @@
+@media (max-width: 600px) {
+    body {
+        height: auto;
+    }
+    .reward-container {
+        bottom: 2vh;
+        gap: 10px;
+    }
+    .lootbox {
+        width: 70px;
+        height: 70px;
+    }
+    .lootbox i {
+        font-size: 30px;
+    }
+    .reward {
+        width: 80px;
+        height: 120px;
+    }
+}
